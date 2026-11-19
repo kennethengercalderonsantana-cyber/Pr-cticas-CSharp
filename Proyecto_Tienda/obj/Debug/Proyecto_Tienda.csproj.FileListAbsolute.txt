@@ -1,0 +1,7 @@
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe.config
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.exe
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\bin\Debug\Proyecto_Tienda.pdb
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.AssemblyReference.cache
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.exe
+C:\Users\Sistemas\OneDrive - Universidad Central del Este\Escritorio\Proyecto_Tienda\obj\Debug\Proyecto_Tienda.pdb
